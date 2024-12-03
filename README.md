@@ -1,5 +1,6 @@
 # Interaction-Techniques
 - This repo includes resources from 05-440/05-640 Interaction Techniques (Spring 2014) Materials at Carnegie Mellon University
+- This course was taught by one of the most influential HCI scholars: Prof. Brad Myers
 
 ### Course Homepage
 - Homepage: https://www.cs.cmu.edu/~bam/uicourse/2014inter/schedule.html
